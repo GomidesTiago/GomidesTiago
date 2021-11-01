@@ -24,7 +24,7 @@
 <p align="left">
 
 </p>
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
+<img width="570em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
+<img width="570em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
