@@ -7,8 +7,6 @@
 - I am currently studying front-end development with React JS, mobile development with React Native and back-end development with node js.
 
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 <div>
@@ -20,12 +18,6 @@
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
   <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -34,6 +26,5 @@
 </p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
-<br><br>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
