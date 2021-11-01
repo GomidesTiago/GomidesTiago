@@ -33,3 +33,4 @@
 
 <br><br>
 
+![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
