@@ -33,7 +33,7 @@
 
 </p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomidesTiago&layout=compact&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
 <br><br>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
