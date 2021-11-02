@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GomidesTiago/b4619edd2e47960d61ce25903b21625a/raw/7b665c3c8714eccf91a52888199048e5b61a2597/GitHub_card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Gomides</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GomidesTiago&color=yellow" alt="Profile views" /> </p>
 
 - Study engineering of mechatronics at the Federal Institute of Education, Science and Technology of Southeast Minas Gerais - Campus Juiz de Fora. 
 - I am currently studying front-end development with React JS, mobile development with React Native and back-end development with node js.
@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="570em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
-<img width="570em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
