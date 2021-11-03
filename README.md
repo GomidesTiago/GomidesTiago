@@ -26,9 +26,7 @@
 <p align="left">
     <img width="470em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
 </p>
-<p>
-   
-      <p>
+  <p>
      <img width="470em" src = " https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
 </p>
 
