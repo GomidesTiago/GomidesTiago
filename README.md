@@ -24,7 +24,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <img width="470em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
+    <img width="470em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=vision-friendly" alt="GomidesTiago stats"/>
 </p>
  
 <p align="left">
