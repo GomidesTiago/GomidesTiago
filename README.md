@@ -28,7 +28,7 @@
 </p>
  
 <p align="left">
-     <img width="470em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly-dark" alt="GomidesTiago stats"/>
+     <img width="470em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=vision-friendly" alt="GomidesTiago stats"/>
 </p>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
