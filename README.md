@@ -10,15 +10,15 @@
 ## 🛠 &nbsp;Tech Stack
 
 <div>
-      <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">     
-      <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
-      <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
-      <img align="center" alt="nodjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">       
-      <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">       
-      <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
-      <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">     
-      <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
-      <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+      <img align="center" alt="HTML5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">     
+      <img align="center" alt="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
+      <img align="center" alt="js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
+      <img align="center" alt="nodjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">       
+      <img align="center" alt="react" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">       
+      <img align="center" alt="python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
+      <img align="center" alt="c" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">     
+      <img align="center" alt="git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
+      <img align="center" alt="github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
