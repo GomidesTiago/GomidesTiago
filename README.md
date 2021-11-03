@@ -24,11 +24,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <img width="475em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="GomidesTiago stats"/>
+    <img width="472em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="GomidesTiago stats"/>
 </p>
  
 <p align="left">
-     <img width="475em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
+     <img width="472em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
 </p>
 
 ![Snake animation](https://github.com/GomidesTs/GomidesTs/blob/output/github-contribution-grid-snake.svg)
