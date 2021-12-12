@@ -23,6 +23,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <img width="460em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="GomidesTiago stats"/>
-    <img width="460em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="GomidesTiago stats"/>
+    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
 </p>
