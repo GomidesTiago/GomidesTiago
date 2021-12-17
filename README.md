@@ -22,7 +22,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
     <img width="550em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="GomidesTiago stats"/>
     <img width="65%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
 </p>
