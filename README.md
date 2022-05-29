@@ -12,8 +12,7 @@
       <img align="center" alt="HTML5" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">     
       <img align="center" alt="CSS3" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
       <img align="center" alt="js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
-      <img align="center" alt="nodjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">       
-      <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
+      <img align="center" alt="nodjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">              
       <img align="center" alt="c" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">     
       <img align="center" alt="git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
       <img align="center" alt="github" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
