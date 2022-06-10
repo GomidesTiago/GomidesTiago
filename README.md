@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Gomides</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">, I'm Tiago Gomides</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GomidesTiago&color=green" alt="Profile views" width="100px" /> </p>
 
 - Study engineering of mechatronics at the Federal Institute of Education, Science and Technology of Southeast Minas Gerais - Campus Juiz de Fora. 
