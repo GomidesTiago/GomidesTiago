@@ -24,9 +24,9 @@
 ![](https://komarev.com/ghpvc/?username=GomidesTiago&color=447ff7&label=Visitor+count)
 <p>
   <a href="https://github.com/AdityaKumar28">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=github_dark&hide_border=true" alt="GomidesTiago stats"/>
-    <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=GomidesTiago&theme=github-dark-blue&hide_border=true" />
-         <img width="300" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=github_dark&hide_border=true alt="GomidesTiago stats"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=github_dark&hide_border=true" alt="GomidesTiago stats"/>
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GomidesTiago&theme=github-dark-blue&hide_border=true" />
+         <img width="400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=github_dark&hide_border=true alt="GomidesTiago stats"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=GomidesTiago&theme=react-dark" />
        
   </a>
