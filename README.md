@@ -26,15 +26,8 @@
     <img width="600" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&show_icons=true&theme=github_dark&hide_border=true" alt="GomidesTiago stats"/>
     <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=GomidesTiago&theme=github-dark-blue&hide_border=true" />
          <img width="380" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=github_dark&alt="GomidesTiago stats"/>
-    <img   src="https://activity-graph.herokuapp.com/graph?username=GomidesTiago&theme=react-dark" />
+  
        
   </a>
 </p>
 
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-</div>
-</p>
