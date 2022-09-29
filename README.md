@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img width="80" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">, I'm Tiago Gomides</h1>
 
 
-- Study engineering of mechatronics at the Federal Institute of Education, Science and Technology of Southeast Minas Gerais - Campus Juiz de Fora. 
+- Student of Information Systems at the Federal Institute of Education, Science and Technology of Southeast Minas Gerais - Campus Juiz de Fora. 
 - I am currently studying front-end development with React JS, mobile development with React Native and back-end development with node js.
 
 
