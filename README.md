@@ -34,7 +34,7 @@
 ## Connect with me
 
 <section>
-<a href="linkedin.com/in/tiago-gomides-744216212" target="_blank">
+<a href="https://linkedin.com/in/tiago-gomides-744216212" target="_blank">
     <img align="center" alt="Linkedin" height="70" width="70" src="./.guithub/linkedin.svg">
   </a>
 &nbsp;&nbsp;
