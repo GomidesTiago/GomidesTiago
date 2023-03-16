@@ -20,14 +20,14 @@
 &nbsp;&nbsp;
 <img align="center" alt="JavaScript" height="80" width="80" src="./.guithub/javascript.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="JavaScript" height="80" width="80" src="./.guithub/nodejs.svg">     
+<img align="center" alt="nodejs" height="80" width="80" src="./.guithub/nodejs.svg">     
 &nbsp;&nbsp;
 <img align="center" alt="Bootstrap" height="80" width="80" src="./.guithub/bootstrap.svg">     
 &nbsp;&nbsp;
 <br>
 <img align="center" alt="Jquery" height="80" width="80" src="./.guithub/jquery.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="Sass" height="80" width="80" src="./.guithub/Sass.svg">     
+<img align="center" alt="Sass" height="80" width="80" src="./.guithub/sass.svg">     
 &nbsp;&nbsp;
 <img align="center" alt="React" height="80" width="80" src="./.guithub/react.svg">     
 &nbsp;&nbsp;
