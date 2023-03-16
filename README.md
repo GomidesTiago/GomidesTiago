@@ -1,11 +1,15 @@
 
 # Hi, I'm Tiago Gomides
 
-<p> Active developer since 2021 I have been studying and improving in HTML technologies, CSS, JAVASCRIPT, using them as a guide in my applications always focusing on their main Libraries and Framework for the best applicability in market demand.</p>
+<p style="list-style-position: inside; text-indent: 1.5em"> Hello! My name is Tiago Gomides and I am a developer with experience in the field since 2021. Ever since I dedicated myself to the world of programming, I have been striving to learn new technologies and improve my skills in the field.</p>
 
-<p> I am adventurous, I like challenges, knowledge is the main virtue that we can develop.</p>
+<p style="list-style-position: inside; text-indent: 1.5em"> Currently, I am a student in the Information Systems course at XP Educação and I am proud to be one of the first students at the institution, after a rigorous selection process with more than 127,000 competitors. During the course, I have learned how to develop innovative solutions for complex challenges and work as part of a team, skills which I consider essential for a developer.</p>
 
-<p> I am currently studying information systems at xp education teaching institution participating in its first class of graduation challenge that I decided to face due to the credibility that it has in the market and the confidence transmitted in instituting the project.</p>
+<p style="list-style-position: inside; text-indent: 1.5em"> In addition to my degree, I have dedicated myself to training courses in different areas of programming. One of them is Frontpush, which has provided me with the skills to design and develop web interfaces using the latest technologies, balancing design, functionality, and motion. I am also a graduate of Full Stack Web Development Programador BR, which covers Front-end, Back-end, Business, and Sales, and the App Factory, which has given me skills to develop mobile applications using React Native.</p>
+
+<p style="list-style-position: inside; text-indent: 1.5em"> Regarding projects, I had the opportunity to participate in a scientific research project whose theme was "Development of a smartphone application for post-occupancy evaluation in buildings used as educational institutions". In this project, I worked as a back-end developer and was responsible for developing the API for integration of the NOSQL database (MongoDB). Additionally, I worked on the front-end, where I created an interactive and dynamic interface for functional usability of the end-user. I also developed a mobile prototype in React Native, integrated with the API. The technologies used were React JS, React Native, Node, and Figma.</p>
+
+<p style="list-style-position: inside; text-indent: 1.5em"> With these experiences, I have always sought to learn more and contribute to challenging and innovative projects. I believe that programming is a powerful tool for transforming the world. My goal as a developer is to always seek new challenges and projects that allow me to grow and develop professionally. If you are looking for a committed and dedicated professional, I am available for new opportunities and challenges in the programming field.</p>
 
 # My Skills
 
@@ -29,11 +33,17 @@
 &nbsp;&nbsp;
 <img align="center" alt="Redux Reducer" height="80" width="80" src="./.guithub/redux-reducer.svg">     
 &nbsp;&nbsp;
+<img align="center" alt="Redux Reducer" height="80" width="80" src="./.guithub/java.svg">     
+&nbsp;&nbsp;
 </section>
 
 ## Connect with me
 
 <section>
+<a href="https://tiagogomides.com.br" target="_blank">
+    <img align="center" alt="Gomides" height="70" width="70" src="./.guithub/gomides.svg">
+  </a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tiago-gomides-744216212" target="_blank">
     <img align="center" alt="Linkedin" height="70" width="70" src="./.guithub/linkedin.svg">
   </a>
@@ -46,8 +56,26 @@
     <img align="center" alt="Outlook" height="70" width="70" src="./.guithub/whatsapp.svg">
   </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/gomides.tiago/" target="_blank">
+<a href="https://instagram.com/devgomides?igshid=ZDdkNTZiNTM=" target="_blank">
     <img align="center" alt="instagram" height="70" width="70" src="./.guithub/instagram.svg">
+  </a>
+&nbsp;&nbsp;
+
+## My courses
+<a href="https://www.frontpush.com.br/" target="_blank">
+    <img align="center" alt="frontpush" height="70" width="70" src="./.guithub/Frontpush.svg">
+  </a>
+&nbsp;&nbsp;
+<a href="https://programadorbr.com/" target="_blank">
+    <img align="center" alt="programadorbr" height="70" width="70" src="./.guithub/progbr.svg">
+  </a>
+&nbsp;&nbsp;
+<a href="https://sujeitoprogramador.com/fabricadeaplicativos/" target="_blank">
+    <img align="center" alt="sujeito" height="70" width="70" src="./.guithub/sujeito.svg">
+  </a>
+&nbsp;&nbsp;
+<a href="https://www.xpeducacao.com.br/graduacao/sistemas-de-informacao" target="_blank">
+    <img align="center" alt="sujeito" height="70" width="70" src="./.guithub/xpe.svg">
   </a>
 &nbsp;&nbsp;
 
